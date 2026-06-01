@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "playwright": "^1.60.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  },
+  "scripts": {
+    "apiLogin": "npx playwright test --grep @Api",
+    "client": "npx playwright test client"
+  }
+}

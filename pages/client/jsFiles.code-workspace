@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "jsFiles",
+			"path": "../../../Playwright/PlaywrightUpskilling/jsFiles"
+		},
+		{
+			"name": "RahulShetty",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
